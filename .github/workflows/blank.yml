@@ -1,4 +1,4 @@
-=name: GRE
+name: GRE
 
 on: [push, workflow_dispatch]
 
